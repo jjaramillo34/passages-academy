@@ -1,0 +1,53 @@
+{
+  "passages_academy_locations": [
+    {
+      "name": "Passages Academy - Main Campus (Horizon)",
+      "address": "560 Brook Avenue, Bronx, NY 10455",
+      "phone": "(718) 647-1800",
+      "campus_type": "Main",
+      "coordinates": {
+        "lat": 40.8134,
+        "lng": -73.9190
+      }
+    },
+    {
+      "name": "Passages Academy - Bronx Hope",
+      "address": "108 W 174th St, Bronx, NY 10453",
+      "phone": "(718) 294-4832",
+      "campus_type": "Bronx Hope",
+      "coordinates": {
+        "lat": 40.8469,
+        "lng": -73.9134
+      }
+    },
+    {
+      "name": "Passages Academy - Willis Ave",
+      "address": "426 Willis Ave, Bronx, NY 10454-1011",
+      "phone": "(718) 647-1800",
+      "campus_type": "Secondary",
+      "coordinates": {
+        "lat": 40.8185,
+        "lng": -73.9218
+      }
+    }
+  ],
+  "library_info": {
+    "digital_platforms": [
+      {
+        "name": "Sora ereading app",
+        "description": "E-book access platform requiring Passagesacademy.org account",
+        "support": "School librarian provides login assistance"
+      },
+      {
+        "name": "myON Reader",
+        "description": "Thousands of enhanced digital titles for pre-K–12 students",
+        "languages": ["English", "Spanish"],
+        "features": "Wide range of reading levels"
+      }
+    ],
+    "contact": {
+      "ask_librarian_form": "https://docs.google.com/forms/d/e/1FAIpQLSe4I3BLkxSvr2K4uSS_7Lj7at0ybCqI5XIExc8grvAqYw4-aA/viewform",
+      "general_support": "Contact your school librarian for login issues"
+    }
+  }
+}

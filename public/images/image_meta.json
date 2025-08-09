@@ -1,0 +1,496 @@
+[
+  {
+    "query": "Digital learning and ebook reading for digital resources section",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/61zJcOuGeUL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/ebook_reader_digital_learning_tablet_stylus.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 33963,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9075086492523617
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to 'ebook reading' and serves as an excellent visual for 'digital learning tablets' for accessing digital resources. It features an e-reader with a stylus and its protective case, presented with excellent clarity and a clean white background. No watermarks are present.",
+      "file_name": "ebook_reader_digital_learning_tablet_stylus.jpg",
+      "caption": "A clean product shot featuring a modern e-reader displaying 'eBook Reader' on its screen with an open book and birds motif, alongside a black stylus. In the upper left, the e-reader is shown with its gray protective case open, revealing its screen with an abstract pattern of letters. The image is set against a pristine white background, highlighting its suitability for digital learning and accessing digital resources.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Digital learning and ebook reading for digital resources section",
+    "image_info": {
+      "url": "https://cdn.odilo.us/odilo.us/2023/07/Untitled-design-2-1024x768.png",
+      "file_path": "/workspace/imgs/person_reading_ebook_tablet_digital_learning.jpg",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 912377,
+      "width": 1024,
+      "height": 768,
+      "total_pixels": 786432,
+      "basic_score": 0.9466427352910407
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly depicting a person engaged in ebook reading on a tablet. This aligns perfectly with 'digital learning' and 'digital resources'. The image has excellent clarity with the main subject in sharp focus, good lighting, and a professional composition. There are no watermarks.",
+      "file_name": "person_reading_ebook_tablet_digital_learning.jpg",
+      "caption": "A person is comfortably seated, reading an e-book on a tablet, with the screen displaying text. The scene suggests a relaxed indoor environment, highlighting the ease and accessibility of digital learning and utilizing digital resources.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Digital learning and ebook reading for digital resources section",
+    "image_info": {
+      "url": "https://www.aarp.org/content/dam/aarp/home-and-family/personal-technology/2020/01/1140-e-book-reader.jpg",
+      "file_path": "/workspace/imgs/person-reading-ebook-tablet-poolside.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 81069,
+      "width": 1140,
+      "height": 655,
+      "total_pixels": 746700,
+      "basic_score": 0.9081543228227142
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly depicting ebook reading on a tablet-like device. The clarity is excellent, with sharp focus on the e-reader and hands, and no watermarks are present. The overall composition and professional quality are high, making it suitable for the specified use case.",
+      "file_name": "person-reading-ebook-tablet-poolside.jpg",
+      "caption": "Close-up of an individual's hands holding a black e-reader or tablet device, displaying text on its screen, while relaxing by the side of a swimming pool. The background shows the blurred blue water of the pool with some inflatable toys and the terracotta-colored brick coping, suggesting a leisurely outdoor setting for digital reading and learning.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Digital learning and ebook reading for digital resources section",
+    "image_info": {
+      "url": "https://imageio.forbes.com/specials-images/imageserve/845915290/Boy-Learning-Through-Digital-Tablet/960x0.jpg?format=jpg&width=960",
+      "file_path": "/workspace/imgs/child_digital_learning_tablet_ebook_reading.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 79004,
+      "width": 959,
+      "height": 640,
+      "total_pixels": 613760,
+      "basic_score": 0.8833531768218919
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a child engaged in ebook reading on a tablet, which clearly represents digital learning. The image is highly clear, well-composed, and free of watermarks, making it an excellent fit for 'digital resources section'.",
+      "file_name": "child_digital_learning_tablet_ebook_reading.jpg",
+      "caption": "A young boy with light brown hair and a grey t-shirt is intently focused on reading an ebook on a black digital tablet. He is seated at a wooden desk with his arms resting on the surface, and several books are subtly visible in the blurred background, suggesting a learning or study environment. The tablet screen displays clear text, representing digital learning resources.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Digital learning and ebook reading for digital resources section",
+    "image_info": {
+      "url": "https://ebookmakerapi.com/blog/wp-content/uploads/2024/11/beginners-guide-what-is-an-ebook.png",
+      "file_path": "/workspace/imgs/person_ebook_reading_tablet_digital_learning.jpg",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 1272204,
+      "width": 1408,
+      "height": 768,
+      "total_pixels": 1081344,
+      "basic_score": 0.9422757417653189
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant, clearly depicting ebook reading on a tablet-like device, fitting perfectly for 'digital learning' and 'digital resources' contexts. The clarity is excellent, with a sharp focus on the subject and no watermarks. The composition and natural lighting contribute to a professional and appealing overall quality.",
+      "file_name": "person_ebook_reading_tablet_digital_learning.jpg",
+      "caption": "A person with curly hair, seen from behind and side, comfortably sits by a large window, engrossed in reading an ebook on a light-colored e-reader or tablet. Their hands are holding and interacting with the device, which displays text. The scene is bathed in soft natural light, suggesting a relaxed learning or reading environment.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Diverse students learning in library environment for library page",
+    "image_info": {
+      "url": "https://img.freepik.com/premium-vector/diverse-group-students-enjoying-learning-library-surrounded-by-books-technology_123891-122358.jpg",
+      "file_path": "/workspace/imgs/Diverse-Students-Learning-Library-Books-Illustration.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 112487,
+      "width": 626,
+      "height": 626,
+      "total_pixels": 391876,
+      "basic_score": 0.8273641506008279
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an excellent match for the search query and prompt. It clearly depicts diverse students actively engaged in learning, surrounded by books that strongly suggest a library environment. The illustration is high quality, crisp, and free of watermarks, making it suitable for a library page. The composition is dynamic and the colors are vibrant.",
+      "file_name": "Diverse-Students-Learning-Library-Books-Illustration.jpg",
+      "caption": "A vibrant and stylized illustration featuring a diverse group of students actively engaged in learning. They are depicted reading books, using laptops, and holding mobile phones while seated amongst large, colorful stacks of books, representing a library or educational setting. The characters include male and female students, one wearing a graduation cap, and another a face mask, against a gradient purple background with subtle decorative elements.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Diverse students learning in library environment for library page",
+    "image_info": {
+      "url": "https://www.bigheartworld.org/wp-content/uploads/2021/06/GettyImages-1147656393-1024x683.jpg",
+      "file_path": "/workspace/imgs/diverse_children_reading_library_books.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 40238,
+      "width": 1024,
+      "height": 683,
+      "total_pixels": 699392,
+      "basic_score": 0.896757665231695
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It features diverse students actively engaged in learning from books in a library environment. The clarity is excellent with sharp focus on the subjects, and there are no watermarks. The composition, lighting, and overall professional quality are outstanding, making it highly suitable for a library page.",
+      "file_name": "diverse_children_reading_library_books.jpg",
+      "caption": "Three diverse young children, including a girl wearing a hijab, a Black girl, and an East Asian boy, are lying on the floor in a library, attentively reading from a colorful children's book. They are surrounded by tall bookshelves filled with various books, creating a cozy and engaging learning environment. The children appear happy and engrossed in their reading, showcasing the joy of discovery in a public library.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Diverse students learning in library environment for library page",
+    "image_info": {
+      "url": "https://www.chicagomag.com/wp-content/archive/city-life/June-2015/Diversity-in-Childrens-Books-is-Hard-to-FindBut-Important/Diverse-Childrens-Books.jpg",
+      "file_path": "/workspace/imgs/diverse_students_learning_library_books.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 411023,
+      "width": 1500,
+      "height": 1000,
+      "total_pixels": 1500000,
+      "basic_score": 0.9010138983089925
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 88.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is exceptionally relevant to the search query and prompt, clearly showing diverse individuals of different ages learning with books in a library environment. The clarity is good, and the composition effectively captures a warm and engaging scene without any watermarks.",
+      "file_name": "diverse_students_learning_library_books.jpg",
+      "caption": "An adult woman and three diverse children of varying ages are seated comfortably on the floor of a library, surrounded by rows of colorful bookshelves. They are all engaged with books, with the adult smiling warmly at one child, another child holding up a book with a joyful expression, and the youngest child exploring books scattered on the floor. The scene conveys a positive atmosphere of shared learning and discovery.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Diverse students learning in library environment for library page",
+    "image_info": {
+      "url": "https://resilienteducator.com/wp-content/uploads/2018/09/diverse-childrens-books.jpg",
+      "file_path": "/workspace/imgs/diverse_students_learning_library.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 200776,
+      "width": 1200,
+      "height": 630,
+      "total_pixels": 756000,
+      "basic_score": 0.9165424792245439
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches the search query, showing diverse students learning and reading in a library setting. The clarity is excellent, with subjects in sharp focus and no visible watermarks. The composition, lighting, and overall professional quality are outstanding, making it highly suitable for the prompt.",
+      "file_name": "diverse_students_learning_library.jpg",
+      "caption": "A diverse group of elementary school-aged children and an adult, possibly a teacher or librarian, are comfortably lying on a blue carpeted floor in a library, deeply engrossed in reading various books. The background features tall bookshelves filled with books, emphasizing the educational environment.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Diverse students learning in library environment for library page",
+    "image_info": {
+      "url": "https://wp-demco-s3-bucket.s3.amazonaws.com/ideas/2016/09/up_choosing_diverse_books.jpg",
+      "file_path": "/workspace/imgs/diverse_students_library_story_time.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 766848,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.970998291698503
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is exceptionally relevant to the search query and prompt, clearly depicting diverse students learning from books in a library environment. The image boasts excellent clarity, is free of watermarks, and exhibits strong overall professional quality and composition.",
+      "file_name": "diverse_students_library_story_time.jpg",
+      "caption": "An overhead shot of a female teacher or librarian sitting cross-legged on the floor in a library, reading from an open book to a group of diverse elementary school children. The children, of various ethnicities, are seated around her in a semi-circle, looking engaged and attentive. The background features well-stocked bookshelves, emphasizing the library setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "NYC educational institution representing Bronx location",
+    "image_info": {
+      "url": "https://3.files.edl.io/600b/23/11/28/163618-f775547e-9b16-4bc4-a032-7838986ece06.jpeg",
+      "file_path": "/workspace/imgs/new-york-institute-education-blind-bronx-nyc-school.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 114484,
+      "width": 1024,
+      "height": 548,
+      "total_pixels": 561152,
+      "basic_score": 0.8712659733999603
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query and prompt. It clearly shows 'The New York Institute for the Education of the Blind,' an educational institution confirmed to be located in the Bronx, NYC. The image is exceptionally clear, well-composed, and free of watermarks, making it highly suitable for the intended purpose.",
+      "file_name": "new-york-institute-education-blind-bronx-nyc-school.jpg",
+      "caption": "The stately brick facade of The New York Institute for the Education of the Blind, located in the Bronx, New York City. The multi-story building features a prominent central entrance with white classical columns, a white cupola on the roof, and numerous windows, some fitted with air conditioning units. Lush green trees and shrubs are visible in the foreground under a clear blue sky, highlighting this historic educational institution.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "NYC educational institution representing Bronx location",
+    "image_info": {
+      "url": "https://live.staticflickr.com/4191/33725394023_0f52eea1aa_h.jpg",
+      "file_path": "/workspace/imgs/morrisania_educational_complex_bronx_nyc_school.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 245923,
+      "width": 1600,
+      "height": 1200,
+      "total_pixels": 1920000,
+      "basic_score": 0.7727098441685715
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, clearly showing the 'Morrisania Educational Complex' located in the 'Bronx, NY' and associated with the 'New York City Department of Education'. The clarity is excellent, with all text and details legible. There are no watermarks or distracting elements. The composition is well-framed, capturing all essential information about the institution.",
+      "file_name": "morrisania_educational_complex_bronx_nyc_school.jpg",
+      "caption": "The main entrance of the Morrisania Educational Complex, a school building located at 1363 Fulton Avenue in the Bronx, New York City. The facade features a brown marble-like finish and prominent blue and red geometric patterned doors. Above the entrance, a decorative crest with an open book motif is visible, alongside the full address. To the right, a large banner from the New York City Department of Education proudly displays 'The Broad Prize for Urban Education 2007 National Winner'.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "NYC educational institution representing Bronx location",
+    "image_info": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Theo_Roosevelt_Edu_Campus_jeh.JPG",
+      "file_path": "/workspace/imgs/theodore_roosevelt_educational_campus_bronx_nyc_school.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 726421,
+      "width": 2243,
+      "height": 2528,
+      "total_pixels": 5670304,
+      "basic_score": 0.4689469267514483
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 75.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt as it clearly displays the 'Theodore Roosevelt Educational Campus,' a known institution in the Bronx, NYC. The image is free of watermarks and offers a good, clear view of the building's facade. While good, the clarity isn't exceptional, preventing a higher overall score.",
+      "file_name": "theodore_roosevelt_educational_campus_bronx_nyc_school.jpg",
+      "caption": "The grand entrance of the Theodore Roosevelt Educational Campus, an educational institution located in the Bronx, New York City. The building features light-colored brick, classical columns, multiple windows, and distinctive blue doors, with its name prominently displayed above the main entrance. A tree stands to the left, and a street lamp to the right, in front of the school steps leading to the sidewalk.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "NYC educational institution representing Bronx location",
+    "image_info": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/JFK_HS_MH_east_jeh.JPG",
+      "file_path": "/workspace/imgs/bronx_nyc_education_school_building.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 919895,
+      "width": 3889,
+      "height": 2625,
+      "total_pixels": 10208625,
+      "basic_score": 0.41249360461953566
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant, directly showing a building associated with multiple schools in the Bronx, explicitly matching 'new york city bronx education school' and 'NYC educational institution representing Bronx location.' The clarity is good, allowing for clear readability of the school names on the banners. There are no watermarks. Overall composition is professional and effectively captures the subject.",
+      "file_name": "bronx_nyc_education_school_building.jpg",
+      "caption": "A bright, full exterior shot of a multi-story educational building in the Bronx, New York City, under a clear blue sky. The building, constructed with brick and concrete, features numerous windows and visible air conditioning units. Large banners on its facade prominently display the names of several institutions, including the 'Bronx Engineering & Technology Academy' and the 'Bronx School of Law & Finance,' confirming its identity as a key educational center in the borough. A blue awning extends over the ground floor entrance, which is secured by metal gates. A few individuals are seen near the entrance, and bare trees are visible on the right side of the frame.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern educational institution building for hero section background",
+    "image_info": {
+      "url": "https://www.nichiha.com/uploads/blog/2022-exterior-trends-in-education/Nichiha-Commercial-DesignerSeries-Illumination-White-Blue-Vertical.jpg?t=1659709684",
+      "file_path": "/workspace/imgs/modern_kipp_pleasant_grove_school_exterior.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 111753,
+      "width": 1000,
+      "height": 667,
+      "total_pixels": 667000,
+      "basic_score": 0.8982250119177569
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant, depicting a modern educational institution's exterior, specifically 'KIPP Pleasant Grove'. It perfectly matches the search query and prompt. The clarity is excellent with sharp details and vibrant colors. There are no watermarks. The composition is professional and visually appealing, making it well-suited for a hero section background.",
+      "file_name": "modern_kipp_pleasant_grove_school_exterior.jpg",
+      "caption": "A wide exterior view of the KIPP Pleasant Grove school building, featuring its distinctive modern architecture with a curved dark blue facade and contrasting light grey and white sections. The building is set against a clear blue sky, with vibrant green grass, well-maintained landscaping, and a black metal fence in the foreground.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern educational institution building for hero section background",
+    "image_info": {
+      "url": "https://www.ceimaterials.com/cm/dpl/images/articles/101/102_KHS_ExtSunrise_0686-1170x600.jpg",
+      "file_path": "/workspace/imgs/modern_educational_institution_building_exterior.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 334579,
+      "width": 1170,
+      "height": 600,
+      "total_pixels": 702000,
+      "basic_score": 0.9156486872733663
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It depicts a modern educational institution's exterior with striking architecture, excellent clarity, and professional composition. The large 'K' logo and visible athletic field clearly identify it as an academy building. The lighting is superb, making it ideal for a hero section background.",
+      "file_name": "modern_educational_institution_building_exterior.jpg",
+      "caption": "A wide-angle exterior view of a contemporary educational institution building, likely a school or university, at sunset or sunrise. The prominent structure features a striking blue metallic and glass facade with a large, illuminated 'K' logo visible through the main entrance. The building also incorporates sections of brick and grey horizontal siding. In the foreground, there is a vibrant green lawn and a concrete pathway. An athletic track and field with stadium lights and bleachers are visible in the background under a clear, pale blue sky. The warm light of the setting or rising sun reflects beautifully off the glass.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern educational institution building for hero section background",
+    "image_info": {
+      "url": "https://i.pinimg.com/474x/56/df/33/56df337a1c26df1ef4608d32b0f56e21.jpg?nii=t",
+      "file_path": "/workspace/imgs/modern_canadian_secondary_school_exterior_building.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 38859,
+      "width": 474,
+      "height": 593,
+      "total_pixels": 281082,
+      "basic_score": 0.7771550162864409
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query for a 'modern education academy building exterior' and is highly suitable for a 'hero section background' as specified in the prompt. It features contemporary architecture with clear lines and ample sky, making it ideal for text overlay. The image is sharp, well-lit, and professionally composed with no watermarks.",
+      "file_name": "modern_canadian_secondary_school_exterior_building.jpg",
+      "caption": "A bright, clear exterior view of Duchess Park Secondary, a modern educational institution building, under a clear blue sky. The architecture features clean lines, large glass windows, and a mix of light-colored panels, brick, and dark accents. A Canadian flag flies proudly on a flagpole in the foreground, and a few students are visible near the entrance, adding a sense of activity.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern educational institution building for hero section background",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/3b/8d/d6/3b8dd60b939a571ad52d2ea9721836d3.jpg",
+      "file_path": "/workspace/imgs/modern_education_academy_building_exterior_dusk.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 53246,
+      "width": 630,
+      "height": 476,
+      "total_pixels": 299880,
+      "basic_score": 0.7887683760481148
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant to the search query and prompt, depicting a distinctly modern educational institution building. It's clear, well-composed with excellent lighting, and suitable for a hero section background due to its clean, professional aesthetic and lack of distractions. There are no watermarks.",
+      "file_name": "modern_education_academy_building_exterior_dusk.jpg",
+      "caption": "An architectural photograph of a modern educational institution building, likely an academy or school, at dusk. The building features a striking dark grey facade, extensive glass windows that reveal illuminated interiors, and prominent yellow-orange slanted support beams. The sky above transitions from blue to soft orange hues, indicating sunset or sunrise, adding warmth to the scene. The foreground shows a clean concrete plaza with minimal landscaping, leading up to the main entrance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern educational institution building for hero section background",
+    "image_info": {
+      "url": "https://www.nichiha.com/uploads/blog/school-design-plays-role-in-academic-success/Nichiha-Commercial-Illumination-DesignerSeries-Horizontal-CustomColor-Green-White-Teal-Orange.jpg?t=1638807523",
+      "file_path": "/workspace/imgs/modern_colorful_educational_building_exterior.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 86476,
+      "width": 1000,
+      "height": 666,
+      "total_pixels": 666000,
+      "basic_score": 0.895330617815917
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant, perfectly depicting a modern educational building exterior with a distinctive colorful facade. It is exceptionally clear, sharp, and entirely free of watermarks. The composition and lighting are professional, making it very suitable for a hero section background. The only minor detraction is the somewhat arid appearance of the distant hills and the immediate foreground landscaping, which could be more manicured.",
+      "file_name": "modern_colorful_educational_building_exterior.jpg",
+      "caption": "A wide exterior view of a modern educational institution building, characterized by a striking facade composed of horizontal panels in a palette of light blue, teal, light green, and off-white. The contemporary structure features expansive windows, some equipped with functional louvered sunshades, reflecting the clear blue sky. In the immediate foreground, there's a minimalist landscape design with mulch and sparse green plants, while the background showcases dry, rolling hills under a bright, cloudless sky, suggesting a warm, arid climate. The building's design is indicative of a cutting-edge school or academy.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
