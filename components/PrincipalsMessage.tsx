@@ -21,7 +21,7 @@ export default function PrincipalsMessage() {
             </div>
             
             <blockquote className="text-lg lg:text-xl text-gray-700 leading-relaxed text-center mb-8 italic">
-              "Passages Academy isn't your traditional school but that's ok, that's really ok. We love the fact that this isn't traditional, we now have the opportunity to customize student needs, talk through what works best for them and create a plan for their success. Our school counselors, teachers, administrators and ACS team partner together to make this academic experience meaningful. Students show up every day not only to learn Math, Science, English and Social Studies but to learn about themselves. Learning about who you are, what you think, and why you think is the necessary process one must take to grow and develop into the person you are destined to be."
+              &ldquo;Passages Academy isn't your traditional school but that's ok, that's really ok. We love the fact that this isn't traditional, we now have the opportunity to customize student needs, talk through what works best for them and create a plan for their success. Our school counselors, teachers, administrators and ACS team partner together to make this academic experience meaningful. Students show up every day not only to learn Math, Science, English and Social Studies but to learn about themselves. Learning about who you are, what you think, and why you think is the necessary process one must take to grow and develop into the person you are destined to be.&rdquo;
             </blockquote>
             
             <div className="text-center">

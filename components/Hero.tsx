@@ -29,11 +29,11 @@ export default function Hero() {
     if (!isPlaying) return
 
     const interval = setInterval(() => {
-      nextSlide()
+      setCurrentIndex(prevIndex => (prevIndex + 1) % heroImages.length)
     }, 5000) // Change every 5 seconds
 
     return () => clearInterval(interval)
-  }, [currentIndex, isPlaying])
+  }, [isPlaying])
 
   const nextSlide = () => {
     if (isTransitioning) return
